@@ -47,7 +47,7 @@ const (
 	defaultSocketPath                string           = ""
 	defaultEvaluator                 string           = "json"
 	defaultImage                     string           = "ghcr.io/open-feature/flagd"
-	defaultTag                       string           = "v0.4.4"
+	defaultTag                       string           = "v0.11.3"
 	defaultLogFormat                 string           = "json"
 	defaultProbesEnabled             bool             = true
 	SyncProviderKubernetes           SyncProviderType = "kubernetes"
