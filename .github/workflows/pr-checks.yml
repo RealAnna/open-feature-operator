@@ -13,7 +13,7 @@ env:
   # Default minimum version of Go to support.
   DEFAULT_GO_VERSION: 1.19
   # renovate: datasource=github-tags depName=kudobuilder/kuttl
-  KUTTL_VERSION: "v0.15.0"
+  KUTTL_VERSION: "v0.26.0"
 
 permissions:
   contents: read
